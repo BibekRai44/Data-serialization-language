@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<userdetails>
+    <info>
+        <firstname>Bibek</firstname>
+        <lastname>Rai</lastname>
+        <Address>Jhapa</Address>
+    </info>
+    <socials>
+        <instagram>_bibek_rai</instagram>
+        <facebook>Bibek Rai</facebook>
+        <Reddit>Bibek44</Reddit>
+    </socials>
+    <Education>
+        running in bachelor
+    </Education>
+    <Github>
+        <profile>https://github.com/Bibekkun</profile>
+        <Repo>shorturl.at/uxKU3</Repo>
+    </Github>
+</userdetails>
