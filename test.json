@@ -1,0 +1,26 @@
+{
+  "info":{
+    "userdetails":[
+      {
+        "firstname": "Bibek",
+        "secondname": "Rai",
+        "Address": "jhapa"
+      }
+      ],
+      "usersocials":[
+        {
+          "instagram": "_bibek_rai",
+          "facebook": "Bibek Rai",
+          "Reddit": "Bibek44"
+        }],
+      "userEducation":[
+        {
+          "Education": "currently running bachelor"
+        }],
+      "userGithub":[
+        {
+          "Profile": "https://github.com/Bibekkun",
+          "Repo": "https://github.com/Bibekkun?tab=repositories"
+        }]
+  }
+}
